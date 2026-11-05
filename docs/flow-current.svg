@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1200" viewBox="0 0 1440 1200">
+<defs><marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#50718A"/></marker></defs>
+<rect width="100%" height="100%" fill="#F5F8FC"/><text x="72" y="64" font-family="Microsoft YaHei,Arial" font-size="34" font-weight="700" fill="#12304A">现状业务流程图（无 AI）</text>
+<text x="74" y="104" font-family="Microsoft YaHei,Arial" font-size="17" fill="#51657A">人工查询、多系统核对、争议交接与结算审批</text>
+<path d="M 720.0 226 V 252" fill="none" stroke="#50718A" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 720.0 336 V 362" fill="none" stroke="#50718A" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 720.0 446 V 472" fill="none" stroke="#50718A" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 720.0 556 V 582" fill="none" stroke="#50718A" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 720.0 666 V 692" fill="none" stroke="#50718A" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 720.0 776 V 802" fill="none" stroke="#50718A" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 720.0 886 V 912" fill="none" stroke="#50718A" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 720.0 996 V 1022" fill="none" stroke="#50718A" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M 970 628.0 H 1012 V 848.0 H 1030" fill="none" stroke="#D18A31" stroke-width="3" marker-end="url(#arrow)"/>
+<rect x="1040" y="811.0" width="300" height="74" rx="15" fill="#FFF6E8" stroke="#D18A31" stroke-width="2"/>
+<text x="1190" y="854.0" text-anchor="middle" font-family="Microsoft YaHei,Arial" font-size="16" fill="#995C0A">版本/重量/时点冲突</text>
+<rect x="470" y="150" width="500" height="76" rx="18" fill="#FFFFFF" stroke="#2B6682" stroke-width="2"/>
+<circle cx="506" cy="188.0" r="19" fill="#087E8B"/><text x="506" y="194.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="white">1</text>
+<text x="540" y="195.0" font-family="Microsoft YaHei,Arial" font-size="18" fill="#19324A">运输完成并生成运单记录</text>
+<rect x="470" y="260" width="500" height="76" rx="18" fill="#EAF2FA" stroke="#2B6682" stroke-width="2"/>
+<circle cx="506" cy="298.0" r="19" fill="#087E8B"/><text x="506" y="304.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="white">2</text>
+<text x="540" y="305.0" font-family="Microsoft YaHei,Arial" font-size="18" fill="#19324A">运单录入员归集运单与三种重量</text>
+<rect x="470" y="370" width="500" height="76" rx="18" fill="#FFFFFF" stroke="#2B6682" stroke-width="2"/>
+<circle cx="506" cy="408.0" r="19" fill="#087E8B"/><text x="506" y="414.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="white">3</text>
+<text x="540" y="415.0" font-family="Microsoft YaHei,Arial" font-size="18" fill="#19324A">对账专员分别查询 TMS / 计费 / ERP</text>
+<rect x="470" y="480" width="500" height="76" rx="18" fill="#EAF2FA" stroke="#2B6682" stroke-width="2"/>
+<circle cx="506" cy="518.0" r="19" fill="#087E8B"/><text x="506" y="524.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="white">4</text>
+<text x="540" y="525.0" font-family="Microsoft YaHei,Arial" font-size="18" fill="#19324A">人工查合同、称重单、签收回执与附加费依据</text>
+<rect x="470" y="590" width="500" height="76" rx="18" fill="#FFFFFF" stroke="#2B6682" stroke-width="2"/>
+<circle cx="506" cy="628.0" r="19" fill="#087E8B"/><text x="506" y="634.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="white">5</text>
+<text x="540" y="635.0" font-family="Microsoft YaHei,Arial" font-size="18" fill="#19324A">按合同规则计算并逐项核对账单</text>
+<rect x="470" y="700" width="500" height="76" rx="18" fill="#EAF2FA" stroke="#2B6682" stroke-width="2"/>
+<circle cx="506" cy="738.0" r="19" fill="#087E8B"/><text x="506" y="744.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="white">6</text>
+<text x="540" y="745.0" font-family="Microsoft YaHei,Arial" font-size="18" fill="#19324A">发现差异后补资料、查便签或找同事</text>
+<rect x="470" y="810" width="500" height="76" rx="18" fill="#FFFFFF" stroke="#2B6682" stroke-width="2"/>
+<circle cx="506" cy="848.0" r="19" fill="#087E8B"/><text x="506" y="854.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="white">7</text>
+<text x="540" y="855.0" font-family="Microsoft YaHei,Arial" font-size="18" fill="#19324A">必要时交合同审计 / 系统工程师复核</text>
+<rect x="470" y="920" width="500" height="76" rx="18" fill="#EAF2FA" stroke="#2B6682" stroke-width="2"/>
+<circle cx="506" cy="958.0" r="19" fill="#087E8B"/><text x="506" y="964.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="white">8</text>
+<text x="540" y="965.0" font-family="Microsoft YaHei,Arial" font-size="18" fill="#19324A">差异确认并由结算经理或授权人审批</text>
+<rect x="470" y="1030" width="500" height="76" rx="18" fill="#FFFFFF" stroke="#2B6682" stroke-width="2"/>
+<circle cx="506" cy="1068.0" r="19" fill="#087E8B"/><text x="506" y="1074.0" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="white">9</text>
+<text x="540" y="1075.0" font-family="Microsoft YaHei,Arial" font-size="18" fill="#19324A">财务执行结算并归档</text>
+<text x="72" y="1180" font-family="Microsoft YaHei,Arial" font-size="13" fill="#718096">FDE 运费对账与计费争议 | 流程示意，需结合现场流程复核</text>
+</svg>

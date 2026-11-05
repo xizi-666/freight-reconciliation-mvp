@@ -1,0 +1,19 @@
+{
+  "source_system": "billing",
+  "data_label": "模拟数据",
+  "shipment_no": "WB-SIM-006",
+  "carrier": "CARRIER-B",
+  "lane": "LANE-002",
+  "snapshot_at": "2026-06-17T09:00:00+08:00",
+  "system_status": "ok",
+  "amount": "144.00",
+  "weight_min": "80",
+  "billed_weight": "80",
+  "billing_time": "2026-06-16T10:00:00+08:00",
+  "rate_version": "v1",
+  "pricing_event": "signed_time",
+  "carrier_pricing_event": "signed_time",
+  "mid_month_change": false,
+  "contract_ref": "sample-contract-b",
+  "rate_card_ref": "sample-price-b"
+}

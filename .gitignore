@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/freight.db
+data/freight.db-wal
+data/freight.db-shm
+outputs/qa/
+_backup_*/
+*.log
+.DS_Store
+Thumbs.db

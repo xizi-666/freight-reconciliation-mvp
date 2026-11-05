@@ -1,0 +1,14 @@
+{
+  "source_system": "tms",
+  "data_label": "模拟数据",
+  "shipment_no": "WB-SIM-006",
+  "carrier": "CARRIER-B",
+  "lane": "LANE-002",
+  "snapshot_at": "2026-06-17T09:00:00+08:00",
+  "system_status": "ok",
+  "weight_actual": "90",
+  "weight_volume": "70",
+  "departure_time": "2026-06-14T08:00:00+08:00",
+  "signed_time": "2026-06-16T10:00:00+08:00",
+  "weight_ticket": "SIM-WEIGHT-006"
+}

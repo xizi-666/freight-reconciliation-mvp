@@ -1,0 +1,15 @@
+app:
+  name: freight-reconciliation-mvp
+  mode: demo
+  timezone: Asia/Shanghai
+data:
+  refresh_interval_minutes: 15
+  stale_after_minutes: 15
+  source_mode: read_only
+review:
+  require_human_for_conflict: true
+  require_human_for_missing_evidence: true
+finance_actions:
+  settlement_approval: false
+  payment: false
+  deduction: false

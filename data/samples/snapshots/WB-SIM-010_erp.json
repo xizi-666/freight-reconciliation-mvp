@@ -1,0 +1,11 @@
+{
+  "source_system": "erp",
+  "data_label": "模拟数据",
+  "shipment_no": "WB-SIM-010",
+  "carrier": "CARRIER-A",
+  "lane": "LANE-001",
+  "snapshot_at": "2026-06-17T09:00:00+08:00",
+  "system_status": "ok",
+  "amount": "240.00",
+  "settlement_status": "待人工审批（模拟）"
+}
